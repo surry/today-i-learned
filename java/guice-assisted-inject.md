@@ -15,7 +15,7 @@ public class RealPayment implements Payment {
 }
 ```
 
-The injectable arguments are isolated via an intermediate factory object which then has methods to create objects of the desired that take the non-injectable arguments. The @Assisted annotation provided by Guice can generate a lot of the boilerplate code needed for these factories, so you just need to write a simple interface for creating your type.
+The injectable arguments are isolated via an intermediate factory object which has methods to create objects of the desired type using the non-injectable arguments. The @Assisted annotation provided by Guice can generate a lot of the boilerplate code needed for these factories, so you just need to write a simple interface for creating your type.
 
 ```java
 public interface PaymentFactory {
