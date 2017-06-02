@@ -3,11 +3,11 @@ A collection of interesting and useful things I have learned while working with 
 
 # Categories
 
-* [Elasticsearch](#Elasticsearch)
-* [Java](#Java)
-* [Packaging](#Packaging)
-* [Puppet](#Puppet)
-* [Python](#Python)
+* [Elasticsearch](#elasticsearch)
+* [Java](#java)
+* [Packaging](#packaging)
+* [Puppet](#puppet)
+* [Python](#python)
 
 ---
 
