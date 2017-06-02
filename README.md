@@ -13,3 +13,6 @@ A collection of interesting and useful things I have learned while working with 
 
 # Java
 - [Combining Caller-Supplied Arguments and Injected Constructor Arguments with Guice](java/guice-assisted-inject.md)
+
+# Puppet
+- [Structured Facts](puppet/structured-facts.md)
