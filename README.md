@@ -5,8 +5,9 @@ A collection of interesting and useful things I have learned while working with 
 
 * [Elasticsearch](#Elasticsearch)
 * [Java](#Java)
-* [Puppet](#Puppet)
 * [Packaging](#Packaging)
+* [Puppet](#Puppet)
+* [Python](#Python)
 
 ---
 
@@ -22,3 +23,7 @@ A collection of interesting and useful things I have learned while working with 
 
 # Puppet
 - [Structured Facts](puppet/structured-facts.md)
+
+# Python
+## Pip
+- [`pip install` Failing with noexec /tmp](python/pip/pip-install-noexec-tmp.md)
