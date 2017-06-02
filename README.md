@@ -5,6 +5,8 @@ A collection of interesting and useful things I have learned while working with 
 
 * [Elasticsearch](#Elasticsearch)
 * [Java](#Java)
+* [Puppet](#Puppet)
+* [Packaging](#Packaging)
 
 ---
 
@@ -13,6 +15,10 @@ A collection of interesting and useful things I have learned while working with 
 
 # Java
 - [Combining Caller-Supplied Arguments and Injected Constructor Arguments with Guice](java/guice-assisted-inject.md)
+
+# Packaging
+## RPM
+- [RPM Changelog Date Format](packaging/rpm/changelog-date-format.md)
 
 # Puppet
 - [Structured Facts](puppet/structured-facts.md)
