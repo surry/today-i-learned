@@ -13,4 +13,5 @@ The structured facts interface nests the FQDN inside the `$::networking` hash al
 with other networking facts.
 
 https://docs.puppet.com/facter/3.1/fact_overview.html#writing-structured-facts
+
 https://docs.puppet.com/facter/3.6/core_facts.html
