@@ -5,6 +5,7 @@ A collection of interesting and useful things I have learned while working with 
 
 * [Elasticsearch](#elasticsearch)
 * [Java](#java)
+* [Linux](#linux)
 * [Packaging](#packaging)
 * [Puppet](#puppet)
 * [Python](#python)
@@ -17,6 +18,9 @@ A collection of interesting and useful things I have learned while working with 
 # Java
 - [Combining Caller-Supplied Arguments and Injected Constructor Arguments with Guice](java/guice-assisted-inject.md)
 
+# Linux
+## Selinux
+- [Finding SELinux Rules with sesearch](linux/selinux/sesearch.md)
 # Packaging
 ## RPM
 - [RPM Changelog Date Format](packaging/rpm/changelog-date-format.md)
@@ -25,5 +29,7 @@ A collection of interesting and useful things I have learned while working with 
 - [Structured Facts](puppet/structured-facts.md)
 
 # Python
+## Django
+- [Generating Django Secret Keys](python/django/secret-keys.md)
 ## Pip
 - [`pip install` Failing with noexec /tmp](python/pip/pip-install-noexec-tmp.md)
