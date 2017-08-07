@@ -1,7 +1,7 @@
 # Generating Django Secret Keys
 
 Django can generate a random SECRET_KEY for your project when it is created via `django-admin startproject`.
-If you've skipped that step, you can generate an appropriate key later on using Django's the same code as `django-admin`:
+If you've skipped that step, you can generate an appropriate key later on using the same code as `django-admin`:
 
 ```
 $ python
